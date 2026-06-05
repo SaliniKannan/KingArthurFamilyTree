@@ -72,6 +72,8 @@ Mother must exist.
 
 Mother must be female.
 
+Specific mother doesn't have a child with this name.
+
 ---
 
 **Get Relationship**
