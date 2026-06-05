@@ -1,0 +1,212 @@
+king arthur initialised
+margaret initialised
+Enter the text File location to create family tree: C:\Users\Dell\OneDrive\Desktop\king_arthur_family.txt
+bill initialised
+CHILD_ADDITION_SUCCEDED
+charlie initialised
+CHILD_ADDITION_SUCCEDED
+percy initialised
+CHILD_ADDITION_SUCCEDED
+ronald initialised
+CHILD_ADDITION_SUCCEDED
+ginerva initialised
+CHILD_ADDITION_SUCCEDED
+flora initialised
+audrey initialised
+helen initialised
+harry initialised
+victoire initialised
+CHILD_ADDITION_SUCCEDED
+ted initialised
+dominique initialised
+CHILD_ADDITION_SUCCEDED
+louis initialised
+CHILD_ADDITION_SUCCEDED
+remus initialised
+CHILD_ADDITION_SUCCEDED
+molly initialised
+CHILD_ADDITION_SUCCEDED
+lucy initialised
+CHILD_ADDITION_SUCCEDED
+hugo initialised
+CHILD_ADDITION_SUCCEDED
+rose initialised
+CHILD_ADDITION_SUCCEDED
+malfoy initialised
+draco initialised
+CHILD_ADDITION_SUCCEDED
+aster initialised
+CHILD_ADDITION_SUCCEDED
+lily initialised
+CHILD_ADDITION_SUCCEDED
+albus initialised
+CHILD_ADDITION_SUCCEDED
+alice initialised
+ginny initialised
+CHILD_ADDITION_SUCCEDED
+ron initialised
+CHILD_ADDITION_SUCCEDED
+james initialised
+CHILD_ADDITION_SUCCEDED
+darcy initialised
+william initialised
+CHILD_ADDITION_SUCCEDED
+family tree created
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP MARGARET CHILDREN
+bill charlie percy ronald ginerva
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP FLORA CHILDREN
+victoire dominique louis
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: ADD_CHILD HELEN PINKY FEMALE
+pinky initialised
+CHILD_ADDITION_SUCCEDED
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP RONALD CHILDREN
+hugo rose pinky
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP BILL MOTHER
+margaret
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP LUCY FATHER
+percy
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP ROSE SPOUSE
+malfoy
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP ARTHUR SONS
+bill charlie percy ronald
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP BILL DAUGHTER
+victoire dominique
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP LILY SIBLING
+albus james
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP PATERNAL-UNCLE
+Missing Arguments
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP TED PATERNAL-UNCLE
+NONE
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP LOUIS PATERNAL-UNCLE
+charlie percy ronald
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP LOUIS PATERNAL-AUNT
+ginerva
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP REMUS MATERNAL-UNCLE
+louis
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP LOUIS PATERNAL-AUNT
+ginerva
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP CHARLIE SISTER-IN-LAW
+flora audrey helen
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: GET_RELATIONSHIP CHARLIE BROTHER-IN-LAW
+harry
+
+Family Tree System
+Options:
+1. ADD_CHILD [mother_name] [child_name] [child_gender]
+2. GET_RELATIONSHIP [name] [relationship_type]
+3. Exit
+Enter your command: EXIT
